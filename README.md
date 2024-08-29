@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 
 It is a password-storing web app built with React and stores passwords locally, practised react and understood how to store the passwords on your system locally. 
 
+https://github.com/user-attachments/assets/9e358e28-4a3e-4c80-a7bc-80c8e5f929a8
